@@ -1,0 +1,3 @@
+domain               = "yourdomain.com"
+cloudflare_email     = "yourCloudflareAccountEmail"
+cloudflare_api_token = "CloudflareAPIToken"
